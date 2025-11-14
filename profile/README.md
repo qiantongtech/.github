@@ -2,8 +2,6 @@
 
 **Qiantong Technology** focuses on building an **intelligent platform ecosystem** that connects **sensing, data, knowledge, and decision-making**. The company has open-sourced its core platforms — the **data middle platform “qData”** and the **knowledge graph platform “qKnow”** — aiming to create an open, shared, and sustainable technology ecosystem. Qiantong Technology empowers developers and partners to jointly drive innovation in intelligent technologies.
 
-Qiantong Technology is deeply engaged in industries such as smart water management, smart agriculture, and intelligent manufacturing, providing end-to-end solutions covering sensing, data governance, knowledge management, and intelligent decision-making. Through its open-source platforms, the company invites developers to participate in co-building the ecosystem, promoting digital transformation and intelligent upgrading, and achieving a win-win synergy between technology and industry.
-
 The Qiantong intelligent platform ecosystem includes:
 
 * **IoT Platform “qThing”**: Supports massive device connectivity and sensing data collection
@@ -15,7 +13,6 @@ The Qiantong intelligent platform ecosystem includes:
 
 # Contact
 
-* **Official Website**: [https://qiantong.tech/](https://qiantong.tech/)
-* **Consultation Hotline**: 400-660-8208
-* **Business Cooperation**: [sales@qiantong.tech](mailto:sales@qiantong.tech)
+* **Website**: [https://qiantong.tech/](https://qiantong.tech/)
+* **Business Inquiries**: [sales@qiantong.tech](mailto:sales@qiantong.tech)
 * **Technical Support**: [support@qiantong.tech](mailto:support@qiantong.tech)
