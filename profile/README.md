@@ -1,22 +1,21 @@
-# 组织介绍
-江苏千桐科技有限公司（简称“千桐科技”）专注于打造连接**感知、数据、知识与决策**的**智能平台体系**。公司自主开源核心平台——数据中台“qData”和知识图谱“qKnow”，致力于构建开放、共享、可持续的技术生态，赋能开发者与合作伙伴，共同推动智能化技术创新。
+# About the Organization
 
-千桐科技深耕智慧水利、智慧农业、智能制造等行业，提供涵盖感知采集、数据治理、知识管理与智能决策的全链路解决方案。通过开源平台，诚邀广大开发者参与共建，共促行业数字化转型与智能升级，实现科技与生态的双赢。
+**Qiantong Technology** focuses on building an **intelligent platform ecosystem** that connects **sensing, data, knowledge, and decision-making**. The company has open-sourced its core platforms — the **data middle platform “qData”** and the **knowledge graph platform “qKnow”** — aiming to create an open, shared, and sustainable technology ecosystem. Qiantong Technology empowers developers and partners to jointly drive innovation in intelligent technologies.
 
-千桐智能平台体系包括：
+Qiantong Technology is deeply engaged in industries such as smart water management, smart agriculture, and intelligent manufacturing, providing end-to-end solutions covering sensing, data governance, knowledge management, and intelligent decision-making. Through its open-source platforms, the company invites developers to participate in co-building the ecosystem, promoting digital transformation and intelligent upgrading, and achieving a win-win synergy between technology and industry.
 
-- 物联网平台“qThing”：支持海量设备接入与感知数据采集
-- 数据中台“qData”：提供全链路数据治理与价值挖掘能力
-- 知识平台“qKnow”：基于知识图谱构建行业知识体系
-- 算法模型平台“qModel”：支持行业算法模型的构建与应用管理
-- 数据标注平台“qLabel”：提供高质量的数据标注服务
-- 大模型应用平台“qBrain”：推动大模型技术在行业中的实际落地应用
+The Qiantong intelligent platform ecosystem includes:
 
-# 联系
-官方网站：https://qiantong.tech/
+* **IoT Platform “qThing”**: Supports massive device connectivity and sensing data collection
+* **Data Middle Platform “qData”**: Provides end-to-end data governance and value extraction capabilities
+* **Knowledge Platform “qKnow”**: Builds industry knowledge systems based on knowledge graphs
+* **Algorithm & Model Platform “qModel”**: Supports development and management of industry algorithm models
+* **Data Labeling Platform “qLabel”**: Offers high-quality data labeling services
+* **Large Model Application Platform “qBrain”**: Drives practical applications of large AI models in industry
 
-咨询热线：400 - 660 - 8208
+# Contact
 
-商务合作：sales@qiantong.tech
-
-技术支持：support@qiantong.tech
+* **Official Website**: [https://qiantong.tech/](https://qiantong.tech/)
+* **Consultation Hotline**: 400-660-8208
+* **Business Cooperation**: [sales@qiantong.tech](mailto:sales@qiantong.tech)
+* **Technical Support**: [support@qiantong.tech](mailto:support@qiantong.tech)
