@@ -10,9 +10,3 @@ The Qiantong Intelligent Platform System includes:
 - **qLabel Data Annotation Platform:** Provides high-quality data annotation and management capabilities tailored for algorithm and large model training.
 - **qBrain Industry Large Model Construction Platform:** A platform for constructing and training vertical large models tailored to specific industries and business scenarios.
 - **qThing IoT Platform:** Supports unified access for massive devices and perception data collection, building a stable and reliable foundation for data acquisition and IoT sensing.
-
-### Contact Us
-- **Official Website:** [https://qiantong.tech/](https://qiantong.tech/)
-- **Consultation Hotline:** 400 - 660 - 8208
-- **Business Cooperation:** sales@qiantong.tech
-- **Technical Support:** support@qiantong.tech
